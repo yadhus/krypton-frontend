@@ -1,3 +1,3 @@
 [submodule "select-component"]
 	path = select-component
-	url = ./select-component
+	url = https://github.com/yadhus/select-component
